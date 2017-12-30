@@ -1,0 +1,18 @@
+{
+  "name": "eyedrops",
+  "main": "./lib/eyedrops",
+  "version": "0.0.1",
+  "description": "Blurs editor tabs to protect the guilty",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "eyedrops:toggle"
+  },
+  "repository": "https://github.com/GEOFBOT/eyedrops",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

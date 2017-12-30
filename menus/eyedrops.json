@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle eyedrops",
+        "command": "eyedrops:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "eyedrops",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "eyedrops:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
