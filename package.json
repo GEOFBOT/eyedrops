@@ -1,10 +1,9 @@
 {
   "name": "eyedrops",
   "main": "./lib/eyedrops",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Blurs editor tabs to protect the guilty",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "eyedrops:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
